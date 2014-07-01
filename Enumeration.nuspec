@@ -1,19 +1,19 @@
 <?xml version="1.0"?>
 <package>
     <metadata>
-        <id>Enumeration</id>
-        <version>2.0.0</version>
-        <authors>Headspring</authors>
-        <owners>Headspring</owners>
-        <licenseUrl>https://github.com/HeadspringLabs/Enumeration/blob/master/content/Headspring/LICENSE.txt</licenseUrl>
-        <projectUrl>https://github.com/HeadspringLabs/Enumeration</projectUrl>
-        <iconUrl>https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2010/May/14/spray_avatar.png</iconUrl>
+        <id>FarReach.Enumeration</id>
+        <version>1.0.0</version>
+        <authors>Far Reach</authors>
+        <owners>Far Reach</owners>
+        <licenseUrl>https://github.com/FarReach/Enumeration/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/FarReach/Enumeration</projectUrl>
+        <iconUrl>https://github.com/FarReach/Enumeration/blob/master/far-reach-logo.png</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>A utility class. Common uses include Java-like enumerations, dispatch table, flyweight, and drop-down list items/select options.</description>
+        <description>A utility class. Common uses include Java-like enumerations, dispatch table, flyweight, and drop-down list items/select options. Forked from https://github.com/HeadspringLabs/Enumeration.</description>
         <tags>utility enumeration</tags>
     </metadata>
     <files>
-        <file src="Enumeration.cs" target="content\Headspring\Enumeration.cs" />
-        <file src="LICENSE.txt" target="content\Headspring\LICENSE.txt" />
+        <file src="Enumeration.cs" target="content\FarReach\Enumeration.cs" />
+        <file src="LICENSE.txt" target="content\FarReach\LICENSE.txt" />
     </files>
 </package>
